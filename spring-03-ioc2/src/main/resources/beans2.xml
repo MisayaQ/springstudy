@@ -21,13 +21,6 @@
 
 
 
-
-
-
-
-
-
-
     <!--&lt;!&ndash;第一种，下标赋值！&ndash;&gt;-->
     <!--<bean id="user" class="com.kuang.pojo.User">-->
     <!--<constructor-arg index="0" value="狂神说Java"/>-->

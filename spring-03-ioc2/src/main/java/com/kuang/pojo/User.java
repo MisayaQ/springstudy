@@ -4,6 +4,7 @@ public class User {
     private String name;
 
     public User(String name){
+        System.out.println("user被创建了");
         this.name = name;
     }
 
